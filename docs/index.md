@@ -1,6 +1,6 @@
-# Roni Herschmann
+# Roni Herschmann - Forward Deployed Software Engineer
 
-Forward Deployed Software Engineer
+SF Bay Area
 
 Contact: [roniherschmann@gmail.com](mailto:roniherschmann@gmail.com) · [roni.herschmann@columbia.edu](mailto:roni.herschmann@columbia.edu)
 
