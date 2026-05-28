@@ -1,55 +1,71 @@
 .md-main__inner {
-  max-width: 680px;
+  max-width: 960px;
   margin-top: 0;
 }
 
 .md-content__inner {
-  padding-top: 2.4rem;
+  padding-top: 2.2rem;
   padding-bottom: 4rem;
 }
 
 .md-typeset {
-  font-size: 0.72rem;
-  line-height: 1.58;
+  font-size: 0.76rem;
+  line-height: 1.52;
 }
 
 .md-typeset h1 {
-  font-size: 1.45rem;
+  font-size: 1.55rem;
   font-weight: 700;
-  margin: 0 0 0.35rem;
+  margin: 0 0 0.45rem;
 }
 
 .md-typeset h2 {
-  font-size: 0.95rem;
+  font-size: 1rem;
   font-weight: 700;
-  margin: 1.45rem 0 0.55rem;
+  margin: 1.25rem 0 0.45rem;
 }
 
 .md-typeset h3 {
   color: var(--md-default-fg-color--light);
-  font-size: 0.74rem;
+  font-size: 0.78rem;
   font-weight: 600;
-  margin: 1rem 0 0.35rem;
+  margin: 0.85rem 0 0.3rem;
 }
 
 .md-typeset p {
-  margin: 0 0 0.7rem;
+  margin: 0 0 0.55rem;
 }
 
 .md-typeset ul {
-  margin: 0 0 0.75rem;
+  margin: 0 0 0.6rem;
+  padding-left: 1.25rem;
 }
 
 .md-typeset li {
-  margin-bottom: 0.18rem;
+  margin-bottom: 0.12rem;
 }
 
-.md-sidebar--primary,
 .md-sidebar--secondary {
   display: none;
 }
 
 .md-content {
-  margin-left: 0;
+  margin-left: 1.2rem;
   margin-right: 0;
+}
+
+.md-sidebar--primary {
+  width: 11rem;
+}
+
+.md-sidebar--primary .md-sidebar__scrollwrap {
+  margin-top: 1.6rem;
+}
+
+.md-nav {
+  font-size: 0.68rem;
+}
+
+.md-nav__title {
+  font-size: 0.68rem;
 }
