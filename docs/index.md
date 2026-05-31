@@ -11,7 +11,6 @@ Forever curious and happy to learn about new things — don't hesitate to reach 
 ## Education
 
 - **B.A. Computer Science; B.A. Business** — Columbia University in the City of New York (2021–Dec. 2025)
-- **M.S. Artificial Intelligence, Robotics & Perception** — Columbia University in the City of New York (Incoming Aug. 2026–May 2027)
 
 ## Previous work
 
