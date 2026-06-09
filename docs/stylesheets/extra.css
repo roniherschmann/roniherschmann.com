@@ -3,9 +3,9 @@
 }
 
 [data-md-color-primary="indigo"] {
-  --md-primary-fg-color: #0b2d5c;
-  --md-primary-fg-color--light: #1d4f91;
-  --md-primary-fg-color--dark: #061a36;
+  --md-primary-fg-color: #1e5aa8;
+  --md-primary-fg-color--light: #2f73c8;
+  --md-primary-fg-color--dark: #16457f;
 }
 
 [data-md-color-accent="light-blue"] {
