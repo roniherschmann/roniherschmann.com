@@ -5,6 +5,7 @@ site_url: https://roniherschmann.com/
 theme:
   name: material
   language: en
+  favicon: assets/images/favicon.ico
   features:
     - navigation.sections
     - navigation.top
