@@ -12,14 +12,14 @@ theme:
     - search.highlight
   palette:
     - scheme: default
-      primary: teal
-      accent: red
+      primary: indigo
+      accent: light blue
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
     - scheme: slate
-      primary: teal
-      accent: red
+      primary: indigo
+      accent: light blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode

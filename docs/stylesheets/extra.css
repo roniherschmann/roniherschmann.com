@@ -2,6 +2,17 @@
   max-width: 1400px;
 }
 
+[data-md-color-primary="indigo"] {
+  --md-primary-fg-color: #0b2d5c;
+  --md-primary-fg-color--light: #1d4f91;
+  --md-primary-fg-color--dark: #061a36;
+}
+
+[data-md-color-accent="light-blue"] {
+  --md-accent-fg-color: #38bdf8;
+  --md-accent-fg-color--transparent: rgba(56, 189, 248, 0.1);
+}
+
 @media screen and (min-width: 76.25em) {
   .md-sidebar--secondary {
     margin-left: 2rem;
