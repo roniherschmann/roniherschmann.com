@@ -1,49 +1,77 @@
-# Roni Herschmann - Forward Deployed Software Engineer
+# Hello, I’m Roni Herschmann
 
-Currently Based in the SF Bay Area
+I’m a Forward Deployed Software Engineer at QualiTau Inc., working across software and applications engineering to build customer-facing software tools that address a broad range of technical and operational challenges.
 
-Contact: [roniherschmann@gmail.com](mailto:roniherschmann@gmail.com) · [roni.herschmann@columbia.edu](mailto:roni.herschmann@columbia.edu)
+I graduated from Columbia University in the City of New York where I received dual degrees in Computer Science (B.A.) and Business (B.A.).
 
-Currently, I work as an FDSE at [QualiTau Inc.](https://qualitau.com/), embedded between engineering departments to create innovative software applications that solve hard problems with precision.
+I enjoy music and have been playing the drums for over 17 years. I also enjoy sports and international affairs.
 
-Forever curious and happy to learn about new things — don't hesitate to reach out.
+I am fluent in English and Hebrew.
 
-## Education
+## Contact
 
-- **B.A. Computer Science; B.A. Business** — Columbia University in the City of New York (2021–Dec. 2025)
+roniherschmann@gmail.com · roni.herschmann@columbia.edu
 
-## Previous work
+## Work Experience
 
-I have experience across Investment Banking, BioTech, FinTech, and Semiconductor Reliability Testing.
+<div class="experience-timeline">
+  <section class="experience-item">
+    <div class="experience-media">
+      <img class="company-logo company-logo--qualitau" src="assets/images/logos/qualitau.png" alt="QualiTau Inc. logo">
+    </div>
+    <div class="experience-copy">
+      <p class="experience-company"><a href="https://qualitau.com/">QualiTau Inc.</a></p>
+      <p class="experience-title">Forward Deployed Software Engineer - Full Time</p>
+      <p class="experience-date">December 2025 - Present</p>
+      <p class="experience-brief">QualiTau helps semiconductor companies validate IC reliability by providing turnkey test equipment, services, and analytics for stress testing, degradation analysis, and failure-rate forecasting.</p>
+    </div>
+  </section>
 
-### Internships during undergrad
+  <section class="experience-item">
+    <div class="experience-media">
+      <img class="company-logo company-logo--qualitau" src="assets/images/logos/qualitau.png" alt="QualiTau Inc. logo">
+    </div>
+    <div class="experience-copy">
+      <p class="experience-company"><a href="https://qualitau.com/">QualiTau Inc.</a></p>
+      <p class="experience-title">Software Development and Solutions Engineering Intern</p>
+      <p class="experience-date">Jun 2025 - Aug 2025</p>
+      <p class="experience-brief">QualiTau helps semiconductor companies validate IC reliability by providing turnkey test equipment, services, and analytics for stress testing, degradation analysis, and failure-rate forecasting.</p>
+    </div>
+  </section>
 
-- Solutions Engineering Intern — QualiTau Inc.
-- Investment Banking (covered Deep-tech, software, and all things related to Israel) — Jefferies
-- Labs, Technical Marketing, software development engineering — QualiTau Inc.
-- Product Engineering — Scopio Labs
+  <section class="experience-item">
+    <div class="experience-media">
+      <img class="company-logo company-logo--jefferies" src="assets/images/logos/jefferies.svg" alt="Jefferies logo">
+    </div>
+    <div class="experience-copy">
+      <p class="experience-company"><a href="https://www.jefferies.com/">Jefferies</a></p>
+      <p class="experience-title">Investment Banking Summer Analyst</p>
+      <p class="experience-date">Jun 2024 - Aug 2024</p>
+      <p class="experience-brief">Jefferies is the leading pure-play investment banking and capital markets firm.</p>
+    </div>
+  </section>
 
-## Engineering
+  <section class="experience-item">
+    <div class="experience-media">
+      <img class="company-logo company-logo--qualitau" src="assets/images/logos/qualitau.png" alt="QualiTau Inc. logo">
+    </div>
+    <div class="experience-copy">
+      <p class="experience-company"><a href="https://qualitau.com/">QualiTau Inc.</a></p>
+      <p class="experience-title">Technical Marketing Engineer Intern</p>
+      <p class="experience-date">Jun 2023 - Aug 2023</p>
+      <p class="experience-brief">QualiTau helps semiconductor companies validate IC reliability by providing turnkey test equipment, services, and analytics for stress testing, degradation analysis, and failure-rate forecasting.</p>
+    </div>
+  </section>
 
-I have made real contributions to projects in the following fields:
-
-- ML Applications
-- LLM Fine-tuning / Reinforcement Learning
-- Image Recognition
-- Network Engineering
-- Compliance Automation
-- Full Stack Development
-- SDLC
-- Mobile App Development (iOS / Xcode)
-- Business Development & Market Research
-- Financial Modeling & Finance Automation
-
-My GitHub repos are private, but if you're interested in learning more about my software projects, feel free to reach out.
-
-I'm fluent in English and Hebrew, and I've been playing the drums for over 17 years.
-
-## Elsewhere
-
-[X](https://x.com/roniherschmann) (I never post) · [LinkedIn](https://www.linkedin.com/in/roni-h-488aba18b/) · [GitHub](https://github.com/roniherschmann)
-
-Thanks for stopping by.
+  <section class="experience-item">
+    <div class="experience-media">
+      <img class="company-logo company-logo--scopio" src="assets/images/logos/scopio-labs.png" alt="Scopio Labs logo">
+    </div>
+    <div class="experience-copy">
+      <p class="experience-company"><a href="https://scopiolabs.com/">Scopio Labs</a></p>
+      <p class="experience-title">Product Engineer Intern</p>
+      <p class="experience-date">May 2022 - Sep 2022</p>
+      <p class="experience-brief">Scopio Labs develops AI-powered full-field digital imaging platforms that digitize blood and bone marrow cell morphology analysis for hematology labs.</p>
+    </div>
+  </section>
+</div>

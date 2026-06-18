@@ -1,7 +1,3 @@
-.md-main__inner {
-  max-width: 1400px;
-}
-
 [data-md-color-primary="indigo"] {
   --md-primary-fg-color: #1e5aa8;
   --md-primary-fg-color--light: #2f73c8;
@@ -13,10 +9,8 @@
   --md-accent-fg-color--transparent: rgba(56, 189, 248, 0.1);
 }
 
-@media screen and (min-width: 76.25em) {
-  .md-sidebar--secondary {
-    margin-left: 2rem;
-  }
+.md-main__inner {
+  max-width: 1400px;
 }
 
 .md-content__inner {
@@ -43,4 +37,127 @@
 .md-typeset h3 {
   color: var(--md-primary-fg-color);
   font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+
+.md-typeset .experience-timeline {
+  margin-top: 1rem;
+  max-width: 48rem;
+}
+
+.md-typeset .experience-item {
+  display: grid;
+  gap: 1.4rem;
+  grid-template-columns: 6.5rem minmax(0, 1fr);
+  margin: 0 0 2.2rem;
+}
+
+.md-typeset .experience-media {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 8rem;
+}
+
+.md-typeset .experience-media::after {
+  background: var(--md-accent-fg-color);
+  content: "";
+  display: block;
+  flex: 1;
+  margin-top: 1rem;
+  width: 0.12rem;
+}
+
+.md-typeset .company-logo {
+  display: block;
+  flex: 0 0 auto;
+  height: auto;
+  margin: 0;
+  object-fit: contain;
+}
+
+.md-typeset .company-logo--qualitau {
+  max-width: 4.8rem;
+}
+
+.md-typeset .company-logo--jefferies {
+  max-width: 6.1rem;
+}
+
+.md-typeset .company-logo--scopio {
+  max-width: 5.4rem;
+}
+
+.md-typeset .experience-copy {
+  padding-top: 0.15rem;
+}
+
+.md-typeset .experience-company {
+  color: var(--md-accent-fg-color);
+  font-size: 0.95rem;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 1.2;
+  margin: 0 0 0.35rem;
+}
+
+.md-typeset .experience-company a {
+  color: inherit;
+}
+
+.md-typeset .experience-company a:hover {
+  color: var(--md-primary-fg-color);
+}
+
+.md-typeset .experience-title {
+  font-weight: 700;
+  margin: 0 0 0.25rem;
+}
+
+.md-typeset .experience-date {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.75rem;
+  margin: 0 0 0.6rem;
+}
+
+.md-typeset .experience-brief {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.72rem;
+  line-height: 1.55;
+  margin: 0;
+  max-width: 44rem;
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--secondary {
+    display: none;
+  }
+
+  .md-content {
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 44.9375em) {
+  .md-typeset .experience-item {
+    gap: 0.9rem;
+    grid-template-columns: 4.2rem minmax(0, 1fr);
+    margin-bottom: 1.8rem;
+  }
+
+  .md-typeset .experience-media {
+    min-height: 7rem;
+  }
+
+  .md-typeset .company-logo--qualitau {
+    max-width: 3.4rem;
+  }
+
+  .md-typeset .company-logo--jefferies {
+    max-width: 4rem;
+  }
+
+  .md-typeset .company-logo--scopio {
+    max-width: 3.6rem;
+  }
 }
