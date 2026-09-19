@@ -9,8 +9,14 @@
   --md-accent-fg-color--transparent: rgba(56, 189, 248, 0.1);
 }
 
+.md-grid {
+  max-width: 100%;
+}
+
 .md-main__inner {
-  max-width: 1400px;
+  max-width: none;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .md-content__inner {
@@ -88,6 +94,23 @@
   max-width: 5.4rem;
 }
 
+.md-typeset .company-logo--scopio-light {
+  aspect-ratio: 2.8 / 1;
+  object-fit: cover;
+}
+
+.md-typeset .company-logo--scopio-dark {
+  display: none;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .company-logo--scopio-light {
+  display: none;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .company-logo--scopio-dark {
+  display: block;
+}
+
 .md-typeset .experience-copy {
   padding-top: 0.15rem;
 }
@@ -128,6 +151,67 @@
   max-width: 44rem;
 }
 
+.md-typeset .project-grid {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 1rem 0 2.5rem;
+  width: 100%;
+}
+
+.md-typeset .project-card {
+  margin: 0;
+}
+
+.md-typeset .project-card__media {
+  overflow: hidden;
+  position: relative;
+}
+
+.md-typeset .project-card__media:focus-visible {
+  outline: 0.15rem solid var(--md-accent-fg-color);
+  outline-offset: 0.15rem;
+}
+
+.md-typeset .project-card__media img {
+  aspect-ratio: 3 / 2;
+  display: block;
+  margin: 0;
+  object-fit: cover;
+  width: 100%;
+}
+
+.md-typeset .project-card__description {
+  align-items: flex-end;
+  background: linear-gradient(to top, rgba(5, 20, 48, 0.96), rgba(5, 20, 48, 0.72));
+  color: #fff;
+  display: flex;
+  font-size: 0.76rem;
+  inset: 0;
+  line-height: 1.45;
+  margin: 0;
+  opacity: 0;
+  padding: 1rem;
+  position: absolute;
+  transform: translateY(0.4rem);
+  transition: opacity 180ms ease, transform 180ms ease;
+}
+
+.md-typeset .project-card__media:hover .project-card__description,
+.md-typeset .project-card__media:focus .project-card__description {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.md-typeset .project-card figcaption {
+  color: var(--md-default-fg-color);
+  font-size: 0.82rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.35;
+  padding: 0.65rem 0 0;
+}
+
 @media screen and (min-width: 76.25em) {
   .md-sidebar--secondary {
     display: none;
@@ -138,7 +222,22 @@
   }
 }
 
+@media screen and (max-width: 59.9375em) {
+  .md-typeset .project-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
 @media screen and (max-width: 44.9375em) {
+  .md-main__inner {
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+  }
+
+  .md-typeset .project-grid {
+    grid-template-columns: 1fr;
+  }
+
   .md-typeset .experience-item {
     gap: 0.9rem;
     grid-template-columns: 4.2rem minmax(0, 1fr);

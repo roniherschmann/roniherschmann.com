@@ -2,7 +2,9 @@
 
 I’m a Forward Deployed Software Engineer at QualiTau Inc., working across software and applications engineering to build customer-facing software tools that address a broad range of technical and operational challenges.
 
-I graduated from Columbia University in the City of New York where I received dual degrees in Computer Science (B.A.) and Business (B.A.).
+I'm currently pursuing an MSc in AI & Robotics at Columbia University in the City of New York.
+
+Previously, I graduated from Columbia University in the City of New York where I received dual degrees in Computer Science (B.A.) and Business (B.A.).
 
 I enjoy music and have been playing the drums for over 17 years. I also enjoy sports and international affairs.
 
@@ -10,7 +12,7 @@ I am fluent in English and Hebrew.
 
 ## Contact
 
-roniherschmann@gmail.com · roni.herschmann@columbia.edu
+roniherschmann@gmail.com · roni.herschmann@columbia.edu · rlh2177@columbia.edu
 
 ## Work Experience
 
@@ -65,7 +67,8 @@ roniherschmann@gmail.com · roni.herschmann@columbia.edu
 
   <section class="experience-item">
     <div class="experience-media">
-      <img class="company-logo company-logo--scopio" src="assets/images/logos/scopio-labs.png" alt="Scopio Labs logo">
+      <img class="company-logo company-logo--scopio company-logo--scopio-light" src="assets/images/logos/scopio-labs-light.jpg" alt="Scopio Labs logo">
+      <img class="company-logo company-logo--scopio company-logo--scopio-dark" src="assets/images/logos/scopio-labs.png" alt="Scopio Labs logo">
     </div>
     <div class="experience-copy">
       <p class="experience-company"><a href="https://scopiolabs.com/">Scopio Labs</a></p>
