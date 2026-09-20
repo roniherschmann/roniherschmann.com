@@ -28,7 +28,7 @@ hide:
 </header>
 
 <section class="intro" aria-label="About">
-  <p>Hello, I’m currently pursuing an MSc in Artificial Intelligence &amp; Robotics at <a href="https://www.columbia.edu/">Columbia University</a>. I previously earned dual B.A. degrees in Computer Science and Business through Columbia’s Dual BA Program. I currently work as a Forward Deployed Software Engineer and previously worked in investment banking and product engineering.</p>
+  <p>Hello, I’m currently pursuing an MSc in Artificial Intelligence &amp; Robotics at <a href="https://www.engineering.columbia.edu/">Columbia University</a>. I previously earned dual B.A. degrees in Computer Science and Business through Columbia’s Dual BA Program. I also work as a Forward Deployed Software Engineer and previously worked in investment banking and product engineering.</p>
 
   <p>I enjoy music and have been playing the drums for over 17 years. I also enjoy sports and international affairs.</p>
 
@@ -41,7 +41,7 @@ hide:
 
     <article class="resume-entry">
       <div class="entry-heading">
-        <h3><a href="https://www.columbia.edu/">Columbia University</a></h3>
+        <h3><a href="https://www.engineering.columbia.edu/">Columbia University</a></h3>
         <p class="entry-date">2026 – Present</p>
       </div>
       <p>MSc in Artificial Intelligence &amp; Robotics</p>
@@ -49,7 +49,7 @@ hide:
 
     <article class="resume-entry">
       <div class="entry-heading">
-        <h3><a href="https://www.columbia.edu/">Columbia University</a></h3>
+        <h3><a href="https://www.engineering.columbia.edu/">Columbia University</a></h3>
         <p class="entry-date">2021 – Dec. 2025</p>
       </div>
       <p>B.A. Computer Science &amp; B.A. Business</p>
