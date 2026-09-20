@@ -67,8 +67,7 @@ roniherschmann@gmail.com · roni.herschmann@columbia.edu · rlh2177@columbia.edu
 
   <section class="experience-item">
     <div class="experience-media">
-      <img class="company-logo company-logo--scopio company-logo--scopio-light" src="assets/images/logos/scopio-labs-light.jpg" alt="Scopio Labs logo">
-      <img class="company-logo company-logo--scopio company-logo--scopio-dark" src="assets/images/logos/scopio-labs.png" alt="Scopio Labs logo">
+      <img class="company-logo company-logo--scopio" src="assets/images/logos/scopio-labs-light.jpg" alt="Scopio Labs logo">
     </div>
     <div class="experience-copy">
       <p class="experience-company"><a href="https://scopiolabs.com/">Scopio Labs</a></p>

@@ -43,7 +43,7 @@ extra:
       link: https://x.com/roniherschmann
 
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/site-v2.css
 
 plugins:
   - search

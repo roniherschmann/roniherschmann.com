@@ -94,21 +94,9 @@
   max-width: 5.4rem;
 }
 
-.md-typeset .company-logo--scopio-light {
+.md-typeset .company-logo--scopio {
   aspect-ratio: 2.8 / 1;
   object-fit: cover;
-}
-
-.md-typeset .company-logo--scopio-dark {
-  display: none;
-}
-
-[data-md-color-scheme="slate"] .md-typeset .company-logo--scopio-light {
-  display: none;
-}
-
-[data-md-color-scheme="slate"] .md-typeset .company-logo--scopio-dark {
-  display: block;
 }
 
 .md-typeset .experience-copy {
