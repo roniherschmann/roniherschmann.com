@@ -192,12 +192,18 @@
 }
 
 .md-typeset .project-card figcaption {
+  align-items: flex-start;
+  box-sizing: border-box;
   color: var(--md-default-fg-color);
+  display: flex;
   font-size: 0.82rem;
   font-style: normal;
   font-weight: 600;
+  justify-content: center;
   line-height: 1.35;
+  min-height: 3.1rem;
   padding: 0.65rem 0 0;
+  text-align: center;
 }
 
 @media screen and (min-width: 76.25em) {
@@ -224,6 +230,10 @@
 
   .md-typeset .project-grid {
     grid-template-columns: 1fr;
+  }
+
+  .md-typeset .project-card figcaption {
+    min-height: 0;
   }
 
   .md-typeset .experience-item {
