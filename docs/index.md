@@ -6,7 +6,7 @@ hide:
 
 <header class="profile-header">
   <h1>Roni Herschmann</h1>
-  <p class="profile-role">MSc AI &amp; Robotics Student, Columbia University</p>
+  <p class="profile-role">MSc AI &amp; Robotics at Columbia | Forward Deployed Engineer</p>
   <p class="profile-contact">
     <a href="mailto:roniherschmann@gmail.com">roniherschmann@gmail.com</a>
     <span aria-hidden="true">|</span>
