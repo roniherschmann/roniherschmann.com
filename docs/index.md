@@ -28,11 +28,9 @@ hide:
 </header>
 
 <section class="intro" aria-label="About">
-  <p>Hello, I’m currently pursuing an MSc in AI &amp; Robotics at <a href="https://robotics.columbia.edu/">Columbia University</a>. I previously earned dual B.A. degrees in Computer Science and Business through Columbia’s Dual BA Program. I also work as a Forward Deployed Software Engineer and previously worked in investment banking and product engineering.</p>
+  <p>I’m Roni, a Forward Deployed Engineer and M.S. candidate in AI &amp; Robotics at <a href="https://robotics.columbia.edu/">Columbia</a>. I earned dual B.A. degrees in Computer Science and Business through Columbia’s Dual Degree Program, and previously worked in investment banking and product engineering.</p>
 
-  <p>I enjoy music and have been playing the drums for over 17 years. I also enjoy sports and international affairs.</p>
-
-  <p>I am fluent in English and Hebrew.</p>
+  <p>I work at the intersection of product, engineering, and strategy. Happy to connect.</p>
 </section>
 
 <div class="resume-columns">
