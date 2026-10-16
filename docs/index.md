@@ -43,6 +43,7 @@ hide:
         <p class="entry-date">2026 – Present</p>
       </div>
       <p>MSc in AI &amp; Robotics</p>
+      <p>Expected graduation: August 2027</p>
     </article>
 
     <article class="resume-entry">
@@ -120,6 +121,16 @@ hide:
       <h3>High-Temperature Oven Calibration &amp; Data Analysis</h3>
     </article>
   </div>
+</section>
+
+<section class="resume-section projects-section" id="coursework">
+  <h2>Current Coursework — Fall 2026</h2>
+  <ul>
+    <li>Computational Aspects of Robotics</li>
+    <li>Artificial Intelligence</li>
+    <li>Computer Vision</li>
+    <li>Heterogeneous Computing (CUDA and OpenCL course on Parallel Computing)</li>
+  </ul>
 </section>
 
 <section class="resume-section" id="languages">
