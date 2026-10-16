@@ -30,7 +30,7 @@ hide:
 <section class="intro" aria-label="About">
   <p>I’m Roni, a Forward Deployed Engineer and M.S. candidate in AI &amp; Robotics at <a href="https://robotics.columbia.edu/">Columbia</a>. I earned dual B.A. degrees in Computer Science and Business through Columbia’s Dual Degree Program, and previously worked in investment banking and product engineering.</p>
 
-  <p>I work at the intersection of product, engineering, and strategy. Happy to connect.</p>
+  <p>I work at the intersection of product, engineering, and strategy. I have experience leading technical projects from concept through development and deployment. Happy to connect.</p>
 </section>
 
 <div class="resume-columns">
@@ -51,6 +51,13 @@ hide:
         <p class="entry-date">2021 – Dec. 2025</p>
       </div>
       <p>B.A. Computer Science &amp; B.A. Business</p>
+    </article>
+
+    <article class="resume-entry">
+      <div class="entry-heading">
+        <h3>Tel Aviv University</h3>
+      </div>
+      <p>International Business</p>
     </article>
   </section>
 
@@ -115,6 +122,12 @@ hide:
   </div>
 </section>
 
+<section class="resume-section" id="languages">
+  <h2>Languages</h2>
+  <p>English and Hebrew — native</p>
+</section>
+
 <footer class="site-footer">
   <p>&copy; 2026 Roni Herschmann</p>
 </footer>
+
