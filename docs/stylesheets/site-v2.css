@@ -254,7 +254,8 @@ body {
   margin-top: 0.15rem;
 }
 
-.projects-section {
+.projects-section,
+#languages {
   margin-top: 3.2rem;
 }
 
@@ -320,7 +321,8 @@ body {
     grid-template-columns: 1fr;
   }
 
-  .projects-section {
+  .projects-section,
+#languages {
     margin-top: 2.7rem;
   }
 }
