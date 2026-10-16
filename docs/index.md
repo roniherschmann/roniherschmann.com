@@ -126,10 +126,10 @@ hide:
 <section class="resume-section projects-section" id="coursework">
   <h2>Current Coursework — Fall 2026</h2>
   <ul>
-    <li>Computational Aspects of Robotics</li>
-    <li>Artificial Intelligence</li>
-    <li>Computer Vision</li>
-    <li>Heterogeneous Computing (CUDA and OpenCL course on Parallel Computing)</li>
+    <li>COMS W4733 — Computational Aspects of Robotics</li>
+    <li>COMS W4701 — Artificial Intelligence</li>
+    <li>COMS W4731 — Computer Vision</li>
+    <li>EECS E4750 — Heterogeneous Computing (CUDA and OpenCL course on Parallel Computing)</li>
   </ul>
 </section>
 
