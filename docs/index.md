@@ -130,6 +130,7 @@ hide:
     <li>COMS W4701 — Artificial Intelligence</li>
     <li>COMS W4731 — Computer Vision</li>
     <li>EECS E4750 — Heterogeneous Computing for Signal and Data Processing (CUDA and OpenCL course on Parallel Computing)</li>
+    <li>E4995 — Engineering Fieldwork</li>
   </ul>
 </section>
 
