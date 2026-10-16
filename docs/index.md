@@ -129,7 +129,7 @@ hide:
     <li>COMS W4733 — Computational Aspects of Robotics</li>
     <li>COMS W4701 — Artificial Intelligence</li>
     <li>COMS W4731 — Computer Vision</li>
-    <li>EECS E4750 — Heterogeneous Computing (CUDA and OpenCL course on Parallel Computing)</li>
+    <li>EECS E4750 — Heterogeneous Computing for Signal and Data Processing (CUDA and OpenCL course on Parallel Computing)</li>
   </ul>
 </section>
 
