@@ -385,7 +385,7 @@ body {
 .md-typeset #coursework ul {
   display: grid;
   gap: 0.45rem;
-  list-style: none;
+  list-style: disc outside;
   margin: 0;
   padding: 0;
 }
