@@ -43,7 +43,7 @@ extra:
       link: https://x.com/roniherschmann
 
 extra_css:
-  - stylesheets/site-v2.css?v=20261016-spacing
+  - stylesheets/site-v2.css?v=20261016-alignment
 
 plugins:
   - search

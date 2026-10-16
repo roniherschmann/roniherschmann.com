@@ -381,3 +381,15 @@ body {
     white-space: normal;
   }
 }
+
+.md-typeset #coursework ul {
+  display: grid;
+  gap: 0.45rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.md-typeset #coursework li {
+  margin: 0;
+}
