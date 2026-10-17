@@ -124,19 +124,23 @@ hide:
 </section>
 
 <section class="resume-section projects-section" id="coursework">
-  <h2>Current Coursework — Fall 2026</h2>
+  <h2>Current Coursework (Fall 2026)</h2>
   <ul>
-    <li>COMS W4733 — Computational Aspects of Robotics</li>
-    <li>COMS W4701 — Artificial Intelligence</li>
-    <li>COMS W4731 — Computer Vision</li>
-    <li>EECS E4750 — Heterogeneous Computing for Signal and Data Processing (CUDA and OpenCL course on Parallel Computing)</li>
-    <li>E4995 — Engineering Fieldwork</li>
+    <li>Computational Aspects of Robotics (COMS W4733)</li>
+    <li>Artificial Intelligence (COMS W4701)</li>
+    <li>Computer Vision (COMS W4731)</li>
+    <li>Heterogeneous Computing for Signal and Data Processing (EECS E4750)
+      <ul>
+        <li>CUDA and OpenCL course on Parallel Computing</li>
+      </ul>
+    </li>
+    <li>Engineering Fieldwork (E4995)</li>
   </ul>
 </section>
 
 <section class="resume-section" id="languages">
   <h2>Languages</h2>
-  <p>English and Hebrew — native</p>
+  <p>English and Hebrew (native)</p>
 </section>
 
 <footer class="site-footer">

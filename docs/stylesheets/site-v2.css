@@ -382,14 +382,24 @@ body {
   }
 }
 
-.md-typeset #coursework ul {
-  display: grid;
-  gap: 0.45rem;
+.md-typeset #coursework > ul {
   list-style: disc outside;
   margin: 0;
-  padding: 0;
+  padding: 0 0 0 1.2rem;
 }
 
 .md-typeset #coursework li {
   margin: 0;
+}
+
+.md-typeset #coursework > ul > li + li {
+  margin-top: 0.45rem;
+}
+
+.md-typeset #coursework li > ul {
+  color: var(--portfolio-muted);
+  font-size: 0.78rem;
+  list-style: circle outside;
+  margin: 0.25rem 0 0;
+  padding-left: 1.2rem;
 }
