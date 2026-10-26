@@ -11,8 +11,6 @@ hide:
     <a href="mailto:roniherschmann@gmail.com">roniherschmann@gmail.com</a>
     <span aria-hidden="true">|</span>
     <a href="mailto:rlh2177@columbia.edu">rlh2177@columbia.edu</a>
-    <span aria-hidden="true">|</span>
-    <a href="mailto:roni.herschmann@columbia.edu">roni.herschmann@columbia.edu</a>
   </p>
   <nav class="profile-links" aria-label="External profiles">
     <a href="https://github.com/roniherschmann" aria-label="GitHub" title="GitHub">
@@ -42,8 +40,10 @@ hide:
         <h3><a href="https://robotics.columbia.edu/">Columbia University</a></h3>
         <p class="entry-date">2026 – Present</p>
       </div>
-      <p>MSc in AI &amp; Robotics</p>
-      <p>Expected graduation: August 2027</p>
+      <div class="education-details">
+        <p>MSc in AI &amp; Robotics</p>
+        <p class="education-subline">Expected graduation: August 2027</p>
+      </div>
     </article>
 
     <article class="resume-entry">
@@ -51,14 +51,10 @@ hide:
         <h3><a href="https://robotics.columbia.edu/">Columbia University</a></h3>
         <p class="entry-date">2021 – Dec. 2025</p>
       </div>
-      <p>B.A. Computer Science &amp; B.A. Business</p>
-    </article>
-
-    <article class="resume-entry">
-      <div class="entry-heading">
-        <h3>Tel Aviv University</h3>
+      <div class="education-details">
+        <p>B.A. Computer Science &amp; B.A. Business</p>
+        <p class="education-subline">Tel Aviv University, International Business</p>
       </div>
-      <p>International Business</p>
     </article>
   </section>
 
@@ -91,34 +87,52 @@ hide:
   </section>
 </div>
 
+<section class="resume-section research-section" id="research">
+  <h2>Research</h2>
+  <article class="research-entry">
+    <h3>Scaling Robot Collision Detection with GPU-Accelerated BVH</h3>
+    <p class="research-meta">Robotics Researcher · Independent research, Columbia Engineering · Sep 2026 – Present</p>
+    <p>Collision checking is the bottleneck in robot motion planning: planners run thousands to millions of checks to find a safe path. I proposed and lead this independent research project at the intersection of robotics and GPU parallel computing, the core of physical AI.</p>
+    <p class="research-technologies">C++ · CUDA · Python · PyCUDA · Robotics</p>
+  </article>
+</section>
+
 <section class="resume-section projects-section" id="projects">
   <div class="section-heading">
     <h2>Projects</h2>
   </div>
 
+  <p class="projects-note">Work under NDA. Stacks listed, details on request.</p>
+
   <div class="project-list">
     <article class="project-entry">
       <h3>AI Agent for Finance</h3>
+      <p class="project-technologies">Python · Weights &amp; Biases · GitHub · Financial data APIs</p>
     </article>
 
     <article class="project-entry">
       <h3>Semantic Search for Newsletters</h3>
+      <p class="project-technologies">Python · Exa</p>
     </article>
 
     <article class="project-entry">
       <h3>Data Visualization for Failure Analysis</h3>
+      <p class="project-technologies">Python · PyQt</p>
     </article>
 
     <article class="project-entry">
       <h3>Network Engineering for Factory Automation</h3>
+      <p class="project-technologies">Python · PyQt · SECS/GEM</p>
     </article>
 
     <article class="project-entry">
       <h3>Internal Tools &amp; Automation</h3>
+      <p class="project-technologies">Python · Swift · Xcode · Image recognition APIs</p>
     </article>
 
     <article class="project-entry">
       <h3>High-Temperature Oven Calibration &amp; Data Analysis</h3>
+      <p class="project-technologies">C# · .NET · Python · NumPy</p>
     </article>
   </div>
 </section>
@@ -130,9 +144,7 @@ hide:
     <li>Artificial Intelligence (COMS W4701)</li>
     <li>Computer Vision (COMS W4731)</li>
     <li>Heterogeneous Computing for Signal and Data Processing (EECS E4750)
-      <ul>
-        <li>CUDA and OpenCL course on Parallel Computing</li>
-      </ul>
+      <span class="course-subtitle">Parallel programming with CUDA and OpenCL</span>
     </li>
     <li>Engineering Fieldwork (E4995)</li>
   </ul>

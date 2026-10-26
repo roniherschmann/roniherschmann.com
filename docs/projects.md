@@ -9,29 +9,37 @@ hide:
   <h1>Projects</h1>
   <p class="page-intro">Selected work spanning software engineering, AI/ML, data analytics, network engineering, and automation.</p>
 
+  <p class="projects-note">Work under NDA. Stacks listed, details on request.</p>
+
   <div class="project-list">
     <article class="project-entry">
       <h2>AI Agent for Finance</h2>
+      <p class="project-technologies">Python · Weights &amp; Biases · GitHub · Financial data APIs</p>
     </article>
 
     <article class="project-entry">
       <h2>Semantic Search for Newsletters</h2>
+      <p class="project-technologies">Python · Exa</p>
     </article>
 
     <article class="project-entry">
       <h2>Data Visualization for Failure Analysis</h2>
+      <p class="project-technologies">Python · PyQt</p>
     </article>
 
     <article class="project-entry">
       <h2>Network Engineering for Factory Automation</h2>
+      <p class="project-technologies">Python · PyQt · SECS/GEM</p>
     </article>
 
     <article class="project-entry">
       <h2>Internal Tools &amp; Automation</h2>
+      <p class="project-technologies">Python · Swift · Xcode · Image recognition APIs</p>
     </article>
 
     <article class="project-entry">
       <h2>High-Temperature Oven Calibration &amp; Data Analysis</h2>
+      <p class="project-technologies">C# · .NET · Python · NumPy</p>
     </article>
   </div>
 

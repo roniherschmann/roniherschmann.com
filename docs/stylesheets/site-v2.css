@@ -403,3 +403,62 @@ body {
   margin: 0.25rem 0 0;
   padding-left: 1.2rem;
 }
+
+.education-details {
+  margin-top: 0.15rem;
+  color: var(--portfolio-muted);
+  font-size: 0.78rem;
+  line-height: 1.5;
+}
+
+.md-typeset .education-details p {
+  margin: 0;
+}
+
+.md-typeset .education-subline {
+  font-size: 0.74rem;
+}
+
+.research-section {
+  margin-top: 3.2rem;
+}
+
+.md-typeset .research-entry h3 {
+  font-size: 0.92rem;
+  font-weight: 650;
+  line-height: 1.35;
+  margin: 0;
+}
+
+.md-typeset .research-entry p {
+  margin-top: 0.6rem;
+}
+
+.md-typeset .research-meta,
+.md-typeset .research-technologies,
+.md-typeset .projects-note,
+.md-typeset .project-technologies,
+.md-typeset .course-subtitle {
+  color: var(--portfolio-muted);
+  font-size: 0.78rem;
+  line-height: 1.5;
+}
+
+.md-typeset .projects-note {
+  margin: 0 0 0.75rem;
+}
+
+.md-typeset .project-technologies {
+  margin-top: 0.4rem;
+}
+
+.md-typeset .course-subtitle {
+  display: block;
+  margin-top: 0.15rem;
+}
+
+@media screen and (max-width: 52rem) {
+  .research-section {
+    margin-top: 2.7rem;
+  }
+}
