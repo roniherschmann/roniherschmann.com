@@ -53,8 +53,14 @@ hide:
       </div>
       <div class="education-details">
         <p>B.A. Computer Science &amp; B.A. Business</p>
-        <p class="education-subline">Tel Aviv University, International Business</p>
       </div>
+    </article>
+
+    <article class="resume-entry">
+      <div class="entry-heading">
+        <h3>Tel Aviv University</h3>
+      </div>
+      <p>International Business</p>
     </article>
   </section>
 
