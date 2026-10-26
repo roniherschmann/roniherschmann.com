@@ -108,7 +108,7 @@ hide:
     <h2>Projects</h2>
   </div>
 
-  <p class="projects-note">Work under NDA. Stacks listed, details on request.</p>
+  <p class="projects-note">Details on Request</p>
 
   <div class="project-list">
     <article class="project-entry">

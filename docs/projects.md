@@ -9,7 +9,7 @@ hide:
   <h1>Projects</h1>
   <p class="page-intro">Selected work spanning software engineering, AI/ML, data analytics, network engineering, and automation.</p>
 
-  <p class="projects-note">Work under NDA. Stacks listed, details on request.</p>
+  <p class="projects-note">Details on Request</p>
 
   <div class="project-list">
     <article class="project-entry">
