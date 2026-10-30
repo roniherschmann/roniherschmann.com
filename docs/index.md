@@ -26,9 +26,9 @@ hide:
 </header>
 
 <section class="intro" aria-label="About">
-  <p>I’m Roni, a Forward Deployed Engineer and M.S. candidate in AI &amp; Robotics at <a href="https://robotics.columbia.edu/">Columbia</a>. I earned dual B.A. degrees in Computer Science and Business through Columbia’s Dual Degree Program, and previously worked in investment banking and product engineering.</p>
+  <p>Hello, my name is Roni. I’m a Forward Deployed Engineer and M.S. candidate in AI &amp; Robotics at <a href="https://robotics.columbia.edu/">Columbia</a>. I have experience leading technical projects from initial concept through development and global deployment. I previously worked in investment banking and product management. My work is hands-on, at the intersection of product, engineering, and business strategy.</p>
 
-  <p>I work at the intersection of product, engineering, and strategy. I have experience leading technical projects from concept through development and deployment. Happy to connect.</p>
+  <p>I’m happy to connect. Feel free to reach out by email with any questions.</p>
 </section>
 
 <div class="resume-columns">
@@ -96,10 +96,8 @@ hide:
 <section class="resume-section research-section" id="research">
   <h2>Research</h2>
   <article class="research-entry">
-    <h3>Scaling Robot Collision Detection with GPU-Accelerated BVH</h3>
-    <p class="research-meta">Robotics Researcher · Independent research, Columbia Engineering · Sep 2026 – Present</p>
-    <p>Robots must reason about their surroundings in a safe manner and navigate complex environments with speed and precision. I proposed and lead independent research at Columbia Engineering to accelerate the collision checking that makes safe motion planning possible. The project combines robotics and GPU parallel computing to address a core computational bottleneck in physical AI as environments and planning workloads grow more complex.</p>
-    <p class="research-technologies">C++ · CUDA · Python · PyCUDA · Robotics</p>
+    <h3>Robotics and Physical AI Researcher</h3>
+    <p>Robots must reason about their surroundings safely and navigate complex environments with speed and precision. I proposed and lead independent research at Columbia Engineering to accelerate the collision checking that makes safe motion planning possible. The project combines robotics and GPU parallel computing to address a core computational bottleneck in physical AI as planning workloads grow more demanding.</p>
   </article>
 </section>
 
