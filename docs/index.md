@@ -26,9 +26,8 @@ hide:
 </header>
 
 <section class="intro" aria-label="About">
-  <p>I’m Roni, a Forward Deployed Engineer and M.S. candidate in AI &amp; Robotics at <a href="https://robotics.columbia.edu/">Columbia</a>. I earned dual B.A. degrees in Computer Science and Business through Columbia’s Dual Degree Program, and previously worked in investment banking and product engineering.</p>
-
-  <p>I work at the intersection of product, engineering, and strategy. I have experience leading technical projects from concept through development and deployment. Happy to connect.</p>
+  <h2>Robotics and Physical AI Researcher</h2>
+  <p>Robots must reason about their surroundings safely and navigate complex environments with speed and precision. I proposed and lead independent research at Columbia Engineering to accelerate the collision checking that makes safe motion planning possible. The project combines robotics and GPU parallel computing to address a core computational bottleneck in physical AI as planning workloads grow more demanding.</p>
 </section>
 
 <div class="resume-columns">
