@@ -97,6 +97,7 @@ hide:
   <h2>Research</h2>
   <article class="research-entry">
     <h3>Robotics and Physical AI Researcher</h3>
+    <p class="research-meta">Robotics Researcher · Independent research, Columbia Engineering · Sep 2026 – Present</p>
     <p>Robots must reason about their surroundings safely and navigate complex environments with speed and precision. I proposed and lead independent research at Columbia Engineering to accelerate the collision checking that makes safe motion planning possible. The project combines robotics and GPU parallel computing to address a core computational bottleneck in physical AI as planning workloads grow more demanding.</p>
   </article>
 </section>
