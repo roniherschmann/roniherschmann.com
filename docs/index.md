@@ -122,22 +122,22 @@ hide:
 
     <article class="project-entry">
       <h3>Data Visualization for Failure Analysis</h3>
-      <p class="project-technologies">Python · PyQt</p>
+      <p class="project-technologies">Python · PyQt · Linux</p>
     </article>
 
     <article class="project-entry">
       <h3>Network Engineering for Factory Automation</h3>
-      <p class="project-technologies">Python · PyQt · SECS/GEM</p>
+      <p class="project-technologies">Python · PyQt · SECS/GEM · Linux</p>
     </article>
 
     <article class="project-entry">
       <h3>Internal Tools &amp; Automation</h3>
-      <p class="project-technologies">Python · Swift · Xcode · Image recognition APIs</p>
+      <p class="project-technologies">Python · Swift · Xcode · Computer vision APIs · Linux</p>
     </article>
 
     <article class="project-entry">
       <h3>High-Temperature Oven Calibration &amp; Data Analysis</h3>
-      <p class="project-technologies">C# · .NET · Python · NumPy</p>
+      <p class="project-technologies">C# · .NET · Python · NumPy · Linux</p>
     </article>
   </div>
 </section>
