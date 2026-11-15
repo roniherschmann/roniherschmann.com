@@ -246,8 +246,7 @@ body {
   white-space: nowrap;
 }
 
-.resume-entry > p,
-.project-entry > p {
+.resume-entry > p {
   color: var(--portfolio-muted);
   font-size: 0.78rem;
   line-height: 1.5;
@@ -272,21 +271,15 @@ body {
 
 .project-list {
   border-top: 1px solid var(--portfolio-border);
-  display: grid;
-  gap: 0;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 .project-entry {
+  align-items: baseline;
   border-bottom: 1px solid var(--portfolio-border);
-  min-width: 0;
-  padding: 1rem 1.25rem 1rem 0;
-}
-
-.project-entry:nth-child(even) {
-  border-left: 1px solid var(--portfolio-border);
-  padding-left: 1.25rem;
-  padding-right: 0;
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  padding: 0.8rem 0;
 }
 
 .site-footer {
@@ -360,15 +353,9 @@ body {
     margin-top: 2.8rem;
   }
 
-  .project-list {
-    grid-template-columns: 1fr;
-  }
-
-  .project-entry,
-  .project-entry:nth-child(even) {
-    border-left: 0;
-    padding-left: 0;
-    padding-right: 0;
+  .project-entry {
+    gap: 0.25rem;
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .entry-heading {
@@ -446,10 +433,6 @@ body {
 
 .md-typeset .projects-note {
   margin: 0 0 0.75rem;
-}
-
-.md-typeset .project-technologies {
-  margin-top: 0.4rem;
 }
 
 .md-typeset .course-subtitle {

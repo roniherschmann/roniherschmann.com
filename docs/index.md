@@ -26,7 +26,7 @@ hide:
 </header>
 
 <section class="intro" aria-label="About">
-  <p>Hello, my name is Roni. I’m a Forward Deployed Engineer and M.S. candidate in AI &amp; Robotics at <a href="https://robotics.columbia.edu/">Columbia</a>. I have experience leading technical projects from initial concept through development and global deployment. I previously worked in investment banking and product management. My work is hands-on, at the intersection of product, engineering, and business strategy.</p>
+  <p>Hello, my name is Roni. I’m a Forward Deployed Engineer and M.Sc candidate in AI &amp; Robotics at <a href="https://robotics.columbia.edu/">Columbia</a>. I have experience leading technical projects from initial concept through development and global deployment. I previously worked in investment banking and product management. My work is hands-on, at the intersection of product, engineering, and business strategy.</p>
 
   <p>I’m happy to connect. Feel free to reach out by email with any questions.</p>
 </section>
