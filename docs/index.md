@@ -78,17 +78,21 @@ hide:
     <article class="resume-entry">
       <div class="entry-heading">
         <h3><a href="https://www.jefferies.com/">Jefferies</a></h3>
-        <p class="entry-date">Summer 2024</p>
       </div>
       <p>Investment Banking Summer Analyst</p>
     </article>
 
     <article class="resume-entry">
       <div class="entry-heading">
-        <h3><a href="https://scopiolabs.com/">Scopio Labs</a></h3>
-        <p class="entry-date">Summer 2022</p>
+        <h3>Technical Marketing and Solutions Engineering</h3>
       </div>
-      <p>Product Engineering Intern</p>
+    </article>
+
+    <article class="resume-entry">
+      <div class="entry-heading">
+        <h3><a href="https://scopiolabs.com/">Scopio Labs</a></h3>
+      </div>
+      <p>Product Manager Intern</p>
     </article>
   </section>
 </div>
