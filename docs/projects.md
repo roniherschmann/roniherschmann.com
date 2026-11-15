@@ -14,7 +14,6 @@ hide:
   <div class="project-list">
     <article class="project-entry">
       <h2>Faster Collision Detection for Industrial Robots</h2>
-      <p class="research-meta">Robotics and Physical AI Researcher · Independent research, Columbia Engineering · Sep 2026 – Present</p>
       <p class="project-technologies">CUDA · C++ · Python · Linux · NVIDIA Nsight · GCP</p>
     </article>
 
