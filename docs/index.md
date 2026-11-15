@@ -6,7 +6,7 @@ hide:
 
 <header class="profile-header">
   <h1>Roni Herschmann</h1>
-  <p class="profile-role">MSc AI &amp; Robotics at Columbia | Forward Deployed Engineer</p>
+  <p class="profile-role">M.Sc AI &amp; Robotics at Columbia | Forward Deployed Engineer</p>
   <p class="profile-contact">
     <a href="mailto:roniherschmann@gmail.com">roniherschmann@gmail.com</a>
     <span aria-hidden="true">|</span>
@@ -41,7 +41,7 @@ hide:
         <p class="entry-date">2026 – Present</p>
       </div>
       <div class="education-details">
-        <p>MSc in AI &amp; Robotics</p>
+        <p>Master of Science - M.Sc in AI &amp; Robotics</p>
         <p class="education-subline">Expected graduation: August 2027</p>
       </div>
     </article>
