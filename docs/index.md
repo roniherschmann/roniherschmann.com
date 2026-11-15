@@ -94,39 +94,37 @@ hide:
 </div>
 
 <section class="select-projects projects-section" id="projects">
-  <p class="projects-owner">Roni Herschmann</p>
   <h2 class="projects-title">Select Projects</h2>
 
   <div class="project-list">
     <article class="project-entry project-featured">
       <h3>Faster Collision Detection for Industrial Robots</h3>
-      <p class="project-description">GPU-accelerated collision detection for industrial robotics.</p>
-      <p class="project-technologies">CUDA · C++ · Python · NVIDIA Nsight</p>
+      <p class="project-technologies">CUDA · C++ · Python · Linux · NVIDIA Nsight · GCP</p>
     </article>
 
     <article class="project-entry">
-      <h3>High-Temperature Oven Calibration</h3>
-      <p class="project-technologies">C# · .NET · Python · NumPy</p>
+      <h3>High-Temperature Oven Calibration &amp; Data Analysis</h3>
+      <p class="project-technologies">C# · .NET · Python · NumPy · Linux</p>
     </article>
 
     <article class="project-entry">
       <h3>Data Visualization for Failure Analysis</h3>
-      <p class="project-technologies">Python · PyQt</p>
+      <p class="project-technologies">Python · PyQt · Linux</p>
     </article>
 
     <article class="project-entry">
       <h3>Network Engineering for Factory Automation</h3>
-      <p class="project-technologies">Python · SECS/GEM · Linux</p>
+      <p class="project-technologies">Python · PyQt · SECS/GEM · Linux</p>
     </article>
 
     <article class="project-entry">
       <h3>Internal Tools &amp; Automation</h3>
-      <p class="project-technologies">Python · Swift · Computer vision APIs</p>
+      <p class="project-technologies">Python · Swift · Xcode · Computer vision APIs · Linux</p>
     </article>
 
     <article class="project-entry">
       <h3>AI Agent for Finance</h3>
-      <p class="project-technologies">Python · Weights &amp; Biases · Financial data APIs</p>
+      <p class="project-technologies">Python · Weights &amp; Biases · GitHub · Financial data APIs</p>
     </article>
 
     <article class="project-entry">
@@ -135,7 +133,7 @@ hide:
     </article>
   </div>
 
-  <p class="projects-contact"><a href="mailto:roniherschmann@gmail.com?subject=Project%20details">Request project details</a></p>
+  <p class="projects-note">Details on Request</p>
 </section>
 
 <section class="resume-section projects-section" id="coursework">

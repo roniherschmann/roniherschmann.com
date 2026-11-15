@@ -5,39 +5,39 @@ hide:
 ---
 
 <section class="select-projects">
-  <p class="projects-owner"><a href="../">Roni Herschmann</a></p>
+  <p class="projects-owner"><a href="../">← Roni Herschmann</a></p>
   <h1 class="projects-title">Select Projects</h1>
+  <p class="page-intro">Selected work spanning software engineering, AI/ML, data analytics, network engineering, and automation.</p>
 
   <div class="project-list">
     <article class="project-entry project-featured">
       <h2>Faster Collision Detection for Industrial Robots</h2>
-      <p class="project-description">GPU-accelerated collision detection for industrial robotics.</p>
-      <p class="project-technologies">CUDA · C++ · Python · NVIDIA Nsight</p>
+      <p class="project-technologies">CUDA · C++ · Python · Linux · NVIDIA Nsight · GCP</p>
     </article>
 
     <article class="project-entry">
-      <h2>High-Temperature Oven Calibration</h2>
-      <p class="project-technologies">C# · .NET · Python · NumPy</p>
+      <h2>High-Temperature Oven Calibration &amp; Data Analysis</h2>
+      <p class="project-technologies">C# · .NET · Python · NumPy · Linux</p>
     </article>
 
     <article class="project-entry">
       <h2>Data Visualization for Failure Analysis</h2>
-      <p class="project-technologies">Python · PyQt</p>
+      <p class="project-technologies">Python · PyQt · Linux</p>
     </article>
 
     <article class="project-entry">
       <h2>Network Engineering for Factory Automation</h2>
-      <p class="project-technologies">Python · SECS/GEM · Linux</p>
+      <p class="project-technologies">Python · PyQt · SECS/GEM · Linux</p>
     </article>
 
     <article class="project-entry">
       <h2>Internal Tools &amp; Automation</h2>
-      <p class="project-technologies">Python · Swift · Computer vision APIs</p>
+      <p class="project-technologies">Python · Swift · Xcode · Computer vision APIs · Linux</p>
     </article>
 
     <article class="project-entry">
       <h2>AI Agent for Finance</h2>
-      <p class="project-technologies">Python · Weights &amp; Biases · Financial data APIs</p>
+      <p class="project-technologies">Python · Weights &amp; Biases · GitHub · Financial data APIs</p>
     </article>
 
     <article class="project-entry">
@@ -46,7 +46,7 @@ hide:
     </article>
   </div>
 
-  <p class="projects-contact"><a href="mailto:roniherschmann@gmail.com?subject=Project%20details">Request project details</a></p>
+  <p class="projects-note">Details on Request</p>
 </section>
 
 <footer class="site-footer">
