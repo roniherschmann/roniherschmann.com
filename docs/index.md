@@ -107,13 +107,8 @@ hide:
     </article>
 
     <article class="project-entry">
-      <h3>AI Agent for Finance</h3>
-      <p class="project-technologies">Python · Weights &amp; Biases · GitHub · Financial data APIs</p>
-    </article>
-
-    <article class="project-entry">
-      <h3>Semantic Search for Newsletters</h3>
-      <p class="project-technologies">Python · Exa</p>
+      <h3>High-Temperature Oven Calibration &amp; Data Analysis</h3>
+      <p class="project-technologies">C# · .NET · Python · NumPy · Linux</p>
     </article>
 
     <article class="project-entry">
@@ -132,8 +127,13 @@ hide:
     </article>
 
     <article class="project-entry">
-      <h3>High-Temperature Oven Calibration &amp; Data Analysis</h3>
-      <p class="project-technologies">C# · .NET · Python · NumPy · Linux</p>
+      <h3>AI Agent for Finance</h3>
+      <p class="project-technologies">Python · Weights &amp; Biases · GitHub · Financial data APIs</p>
+    </article>
+
+    <article class="project-entry">
+      <h3>Semantic Search for Newsletters</h3>
+      <p class="project-technologies">Python · Exa</p>
     </article>
   </div>
 </section>
