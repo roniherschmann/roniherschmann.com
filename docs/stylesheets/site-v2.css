@@ -266,10 +266,6 @@ body {
   font-size: 0.76rem;
 }
 
-.select-projects {
-  max-width: 900px;
-}
-
 .select-projects .projects-owner {
   font-size: 0.76rem;
   margin-bottom: 0.4rem;
@@ -292,10 +288,11 @@ body {
 .select-projects .project-entry {
   align-items: baseline;
   border-bottom: 1px solid var(--portfolio-border);
-  display: flex;
-  gap: 16px;
-  justify-content: space-between;
-  padding: 8px 0;
+  display: grid;
+  gap: clamp(0.6rem, 2vw, 1.25rem);
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  overflow-wrap: anywhere;
+  padding: 0.4rem 0;
 }
 
 .md-typeset .select-projects .project-entry :is(h2, h3) {
@@ -333,9 +330,14 @@ body {
   margin-top: 12px;
 }
 
-@media screen and (max-width: 40rem) {
+@media screen and (max-width: 44.9375rem) {
   .select-projects .project-entry {
     display: block;
+    padding-block: 0.35rem;
+  }
+
+  .select-projects .project-featured {
+    padding-top: 0;
   }
 
   .md-typeset .select-projects .project-technologies {
