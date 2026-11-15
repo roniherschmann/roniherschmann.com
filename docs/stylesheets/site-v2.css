@@ -274,12 +274,8 @@ body {
 }
 
 .project-entry {
-  align-items: baseline;
   border-bottom: 1px solid var(--portfolio-border);
-  display: grid;
-  gap: 1.5rem;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-  padding: 0.8rem 0;
+  padding: 0.45rem 0;
 }
 
 .site-footer {
@@ -351,11 +347,6 @@ body {
 
   .resume-columns {
     margin-top: 2.8rem;
-  }
-
-  .project-entry {
-    gap: 0.25rem;
-    grid-template-columns: minmax(0, 1fr);
   }
 
   .entry-heading {
