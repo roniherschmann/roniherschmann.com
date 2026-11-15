@@ -95,7 +95,7 @@ hide:
 
 <section class="resume-section projects-section" id="projects">
   <div class="section-heading">
-    <h2>Projects</h2>
+    <h2>Select Projects</h2>
   </div>
 
   <p class="projects-note">Details on Request</p>

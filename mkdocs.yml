@@ -31,7 +31,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Projects: projects.md
+  - Select Projects: projects.md
 
 extra:
   social:

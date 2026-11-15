@@ -6,7 +6,7 @@ hide:
 
 <section class="standalone-projects">
   <p class="back-link"><a href="../">← Roni Herschmann</a></p>
-  <h1>Projects</h1>
+  <h1>Select Projects</h1>
   <p class="page-intro">Selected work spanning software engineering, AI/ML, data analytics, network engineering, and automation.</p>
 
   <p class="projects-note">Details on Request</p>
