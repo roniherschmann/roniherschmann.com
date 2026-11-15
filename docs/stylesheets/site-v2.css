@@ -269,13 +269,8 @@ body {
   font-size: 0.76rem;
 }
 
-.project-list {
-  border-top: 1px solid var(--portfolio-border);
-}
-
 .project-entry {
-  border-bottom: 1px solid var(--portfolio-border);
-  padding: 0.45rem 0;
+  padding: 0.35rem 0;
 }
 
 .site-footer {
