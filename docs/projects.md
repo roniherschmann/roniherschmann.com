@@ -10,7 +10,7 @@ hide:
   <p class="page-intro">Selected work spanning software engineering, AI/ML, data analytics, network engineering, and automation.</p>
 
   <div class="project-list">
-    <article class="project-entry project-featured">
+    <article class="project-entry">
       <h2>Faster Collision Detection for Industrial Robots</h2>
       <p class="project-technologies">CUDA · C++ · Python · Linux · NVIDIA Nsight · GCP</p>
     </article>

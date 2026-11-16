@@ -300,24 +300,10 @@ body {
   text-align: right;
 }
 
-.select-projects .project-featured {
-  display: block;
-  margin-bottom: 8px;
-  padding: 0 0 11px;
-}
-
-.md-typeset .select-projects .project-featured .project-technologies {
-  text-align: left;
-}
-
 @media screen and (max-width: 44.9375rem) {
   .select-projects .project-entry {
     display: block;
     padding-block: 0.35rem;
-  }
-
-  .select-projects .project-featured {
-    padding-top: 0;
   }
 
   .md-typeset .select-projects .project-technologies {

@@ -105,7 +105,7 @@ hide:
   <h2 class="projects-title">Select Projects</h2>
 
   <div class="project-list">
-    <article class="project-entry project-featured">
+    <article class="project-entry">
       <h3>Faster Collision Detection for Industrial Robots</h3>
       <p class="project-technologies">CUDA · C++ · Python · Linux · NVIDIA Nsight · GCP</p>
     </article>
