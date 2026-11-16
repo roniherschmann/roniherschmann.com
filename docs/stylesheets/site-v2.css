@@ -203,7 +203,8 @@ body {
   min-width: 0;
 }
 
-.md-typeset .resume-section h2 {
+.md-typeset .resume-section h2,
+.md-typeset .select-projects .projects-title {
   color: var(--portfolio-accent);
   font-size: 1.5rem;
   font-weight: 600;
@@ -223,7 +224,8 @@ body {
   justify-content: space-between;
 }
 
-.md-typeset .resume-entry h3 {
+.md-typeset .resume-entry h3,
+.md-typeset .select-projects .project-entry :is(h2, h3) {
   color: var(--md-default-fg-color);
   font-size: 0.92rem;
   font-weight: 650;
@@ -243,10 +245,14 @@ body {
   white-space: nowrap;
 }
 
-.resume-entry > p {
+.resume-entry > p,
+.md-typeset .select-projects .project-technologies {
   color: var(--portfolio-muted);
   font-size: 0.78rem;
   line-height: 1.5;
+}
+
+.resume-entry > p {
   margin-top: 0.15rem;
 }
 
@@ -272,12 +278,7 @@ body {
 }
 
 .md-typeset .select-projects .projects-title {
-  color: var(--portfolio-accent);
-  font-size: 1.5rem;
-  font-weight: 600;
-  letter-spacing: -0.02em;
-  line-height: 1.2;
-  margin: 0 0 0.8rem;
+  margin-bottom: 0.8rem;
 }
 
 .md-typeset .select-projects .page-intro {
@@ -295,18 +296,7 @@ body {
   padding: 0.4rem 0;
 }
 
-.md-typeset .select-projects .project-entry :is(h2, h3) {
-  color: inherit;
-  font-size: 14px;
-  font-weight: 650;
-  line-height: 1.3;
-  margin: 0;
-}
-
 .md-typeset .select-projects .project-technologies {
-  color: var(--portfolio-muted);
-  font-size: 12px;
-  line-height: 1.5;
   text-align: right;
 }
 
@@ -316,18 +306,8 @@ body {
   padding: 0 0 11px;
 }
 
-.md-typeset .select-projects .project-featured :is(h2, h3) {
-  font-size: 17px;
-}
-
 .md-typeset .select-projects .project-featured .project-technologies {
   text-align: left;
-}
-
-.md-typeset .select-projects .projects-note {
-  color: var(--portfolio-muted);
-  font-size: 0.78rem;
-  margin-top: 12px;
 }
 
 @media screen and (max-width: 44.9375rem) {

@@ -45,8 +45,6 @@ hide:
       <p class="project-technologies">Python · Exa</p>
     </article>
   </div>
-
-  <p class="projects-note">Details on Request</p>
 </section>
 
 <footer class="site-footer">
