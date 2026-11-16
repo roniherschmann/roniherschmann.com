@@ -85,9 +85,10 @@ hide:
 
     <article class="resume-entry">
       <div class="entry-heading">
-        <h3>Technical Marketing and Solutions Engineering - Semiconductors</h3>
+        <h3>Semiconductors</h3>
         <p class="entry-date">Summer 2023</p>
       </div>
+      <p>Technical Marketing and Solutions Engineering</p>
     </article>
 
     <article class="resume-entry">
